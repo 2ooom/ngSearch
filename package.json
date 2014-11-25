@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/2ooom/ngSearch/issues"
   },
-  "homepage": "https://github.com/2ooom/ngSearch"
+  "homepage": "https://github.com/2ooom/ngSearch",
+  "devDependencies": {
+    "gulp": "^3.8.10"
+  }
 }
