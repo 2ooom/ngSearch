@@ -1,0 +1,25 @@
+{
+  "name": "ngSearch",
+  "version": "0.0.0",
+  "description": "Angular + Bootstrap directive for search typehead",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2ooom/ngSearch.git"
+  },
+  "keywords": [
+    "angularjs",
+    "bootstrap",
+    "search",
+    "typehead"
+  ],
+  "author": "@2ooom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2ooom/ngSearch/issues"
+  },
+  "homepage": "https://github.com/2ooom/ngSearch"
+}
