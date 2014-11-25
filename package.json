@@ -17,12 +17,13 @@
     "typehead"
   ],
   "author": "@2ooom",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/2ooom/ngSearch/issues"
   },
   "homepage": "https://github.com/2ooom/ngSearch",
   "devDependencies": {
+    "bower": "^1.3.12",
     "gulp": "^3.8.10"
   }
 }
